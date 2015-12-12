@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>http://unraid.zeron.ca/plugins/open-vm-tools/openVMTools.plg</PluginURL>
+<PluginAuthor>Zeron</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>OpenVM Tools</Name>
+<Description>
+open-vm-tools is a set of services and modules that enable several features in VMware (ESXi) products for better management of, and seamless user interactions with, guests. It includes kernel modules for enhancing the performance of virtual machines running Linux or other VMware supported Unix like guest operating systems.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=38279.0</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/zeron-plugin-repository/master/openVMTools.png</Icon>
+</Containers>
